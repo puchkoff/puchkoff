@@ -26,3 +26,10 @@ Small additions to [Paseo](https://paseo.sh). Install any of them with `paseo pl
 <td width="50%" valign="top"><a href="https://github.com/puchkoff/git-diff-html-skill"><img src="https://raw.githubusercontent.com/puchkoff/git-diff-html-skill/main/docs/logo.svg" alt="git-diff-html"></a></td>
 <td width="50%" valign="middle"><b><a href="https://github.com/puchkoff/git-diff-html-skill">git-diff-html</a></b><br><br>Shows <code>git diff</code> as an HTML page you can share, with a file tree, a full-file view and review comments on lines.</td>
 </tr></table>
+
+### cmux
+
+<table><tr>
+<td width="50%" valign="top"><a href="https://github.com/puchkoff/cmux-mcp"><img src="https://raw.githubusercontent.com/puchkoff/cmux-mcp/master/assets/logo-blue.svg" alt="cmux-mcp"></a><br><b><a href="https://github.com/puchkoff/cmux-mcp">cmux-mcp</a></b><br><sub>MCP server for the <a href="https://cmux.io">cmux</a> CLI. Lets Claude Code drive cmux panes, workspaces, terminal input and the built-in browser.</sub></td>
+<td width="50%" valign="top"><b><a href="https://github.com/puchkoff/cmux-session-cleaner">cmux-session-cleaner</a></b><br><br>A Claude Code plugin that removes dead Claude Code sessions from cmux's session file. cmux never prunes that file and keeps every entry in memory, so on a busy machine its RAM use can grow to tens of GB.</td>
+</tr></table>
