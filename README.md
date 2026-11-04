@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/banner.svg" alt="Oleg Puchkov" width="100%"></p>
-
 ### Paseo plugins
 
 Small additions to [Paseo](https://paseo.sh). Install any of them with `paseo plugin install <repo URL>`.
