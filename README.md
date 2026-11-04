@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Oleg Puchkov: plugins for Paseo and skills for Claude Code" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Oleg Puchkov" width="100%"></p>
 
 ### Paseo plugins
 
