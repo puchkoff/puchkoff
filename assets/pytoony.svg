@@ -1,0 +1,12 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="pytoony">
+  <defs>
+    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <text x="380" y="128" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace"
+        font-size="76" font-weight="800" letter-spacing="3" fill="none" stroke="#f0883e" stroke-width="1.8" filter="url(#glow)">pytoony</text>
+  <text x="380" y="172" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace"
+        font-size="17" letter-spacing="5" fill="#db6d28">TOON ⇄ JSON · FEWER TOKENS</text>
+</svg>

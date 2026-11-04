@@ -33,3 +33,10 @@ Small additions to [Paseo](https://paseo.sh). Install any of them with `paseo pl
 <td width="50%" valign="top"><a href="https://github.com/puchkoff/cmux-mcp"><img src="https://raw.githubusercontent.com/puchkoff/cmux-mcp/master/assets/logo-blue.svg" alt="cmux-mcp"></a><br><b><a href="https://github.com/puchkoff/cmux-mcp">cmux-mcp</a></b><br><sub>MCP server for the <a href="https://cmux.io">cmux</a> CLI. Lets Claude Code drive cmux panes, workspaces, terminal input and the built-in browser.</sub></td>
 <td width="50%" valign="top"><a href="https://github.com/puchkoff/cmux-session-cleaner"><img src="assets/cmux-session-cleaner.svg" alt="cmux-session-cleaner"></a><br><b><a href="https://github.com/puchkoff/cmux-session-cleaner">cmux-session-cleaner</a></b><br><sub>Claude Code plugin that removes dead sessions from cmux's session file, which cmux never prunes and keeps in memory.</sub></td>
 </tr></table>
+
+### Python
+
+<table><tr>
+<td width="50%" valign="top"><a href="https://github.com/puchkoff/pytoony"><img src="assets/pytoony.svg" alt="pytoony"></a></td>
+<td width="50%" valign="middle"><b><a href="https://github.com/puchkoff/pytoony">pytoony</a></b><br><br>A Python package and CLI that converts between JSON and TOON, a compact format for passing structured data to LLMs with 30–60% fewer tokens than JSON.</td>
+</tr></table>
