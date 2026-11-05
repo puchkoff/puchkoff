@@ -1,6 +1,6 @@
 ### Paseo plugins
 
-Small additions to [Paseo](https://paseo.sh). Install any of them with `paseo plugin install <repo URL>`.
+Small additions to [Paseo](https://paseo.sh).
 
 - [Ask](https://github.com/puchkoff/paseo-ask): quick questions in a floating window, answered by Claude on the daemon.
 - [Inbox](https://github.com/puchkoff/paseo-inbox): everything waiting on you, what's running, and what just finished.
