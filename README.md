@@ -17,12 +17,12 @@ Small additions to [Paseo](https://paseo.sh). Install any of them with `paseo pl
 
 - [git-diff-html](https://github.com/puchkoff/git-diff-html-skill): shows `git diff` as an HTML page you can share, with a file tree, a full-file view and review comments on lines.
 
-### CMUX
+### cmux
 
-Tools for [CMUX](https://cmux.com), a free, open-source macOS terminal for AI coding agents. Both plug into Claude Code.
+Tools for [cmux](https://cmux.com), a free, open-source macOS terminal for AI coding agents. Both plug into Claude Code.
 
-- [cmux-mcp](https://github.com/puchkoff/cmux-mcp): MCP server for the CMUX CLI. Lets Claude Code drive CMUX panes, workspaces, terminal input and the built-in browser.
-- [cmux-session-cleaner](https://github.com/puchkoff/cmux-session-cleaner): Claude Code plugin that removes dead sessions from CMUX's session file, which CMUX never prunes and keeps in memory.
+- [cmux-mcp](https://github.com/puchkoff/cmux-mcp): MCP server for the cmux CLI. Lets Claude Code drive cmux panes, workspaces, terminal input and the built-in browser.
+- [cmux-session-cleaner](https://github.com/puchkoff/cmux-session-cleaner): Claude Code plugin that removes dead sessions from cmux's session file, which cmux never prunes and keeps in memory.
 
 ### Python
 
