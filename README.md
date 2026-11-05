@@ -11,6 +11,7 @@ Small additions to [Paseo](https://paseo.sh). Install any of them with `paseo pl
 - [Up arrow](https://github.com/puchkoff/paseo-chat-up): press Up in an empty composer to get your last prompt back.
 - [Double-click rename](https://github.com/puchkoff/paseo-2click-rename): double-click a workspace or an agent tab to rename it.
 - [Recap](https://github.com/puchkoff/paseo-recap): a Recap button in the composer that asks the agent for a TL;DR and next steps.
+- [Archive](https://github.com/puchkoff/paseo-archive): an Archive button in the composer that archives the current workspace.
 
 ### Claude Code skills
 
