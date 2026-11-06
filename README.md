@@ -24,6 +24,10 @@ Tools for [cmux](https://cmux.com), a free, open-source macOS terminal for AI co
 - [cmux-mcp](https://github.com/puchkoff/cmux-mcp): MCP server for the cmux CLI. Lets Claude Code drive cmux panes, workspaces, terminal input and the built-in browser.
 - [cmux-session-cleaner](https://github.com/puchkoff/cmux-session-cleaner): Claude Code plugin that removes dead sessions from cmux's session file, which cmux never prunes and keeps in memory.
 
+### macOS apps
+
+- [PinchZoom](https://github.com/puchkoff/pinch-zoom): pinch on the trackpad to zoom the whole screen, in any app.
+
 ### Python
 
 - [pytoony](https://github.com/puchkoff/pytoony): a Python package and CLI that converts between JSON and TOON, a compact format for passing structured data to LLMs with 30–60% fewer tokens than JSON.
