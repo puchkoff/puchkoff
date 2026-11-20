@@ -12,6 +12,7 @@ Small additions to [Paseo](https://paseo.sh)
 - [Double-click rename](https://github.com/puchkoff/paseo-2click-rename): double-click a workspace or an agent tab to rename it.
 - [Recap](https://github.com/puchkoff/paseo-recap): a Recap button in the composer that asks the agent for a TL;DR and next steps.
 - [Archive](https://github.com/puchkoff/paseo-archive): an Archive button in the composer that archives the current workspace.
+- [Pet](https://github.com/puchkoff/paseo-pet): a cat in the sidebar that sleeps, walks or waves depending on what your agents do. Click it to jump to any working agent.
 
 ### Claude Code skills
 
